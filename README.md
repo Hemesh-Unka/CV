@@ -64,7 +64,7 @@ Managing day-to-day onboard operations and supporting long term operational deve
 The last of my seagoing experience required for certification. I was a trainee officer onboard the MV Silver Shadow - A 6 star cruise vessel, catered towards the luxurious cruise market.
 
 **Holcim New Zealand Limited** (August 2009 to January 2010)   
-*Trainee Deck Officer*
+*Trainee Deck Officer*    
 The first of my seagoing experience component required for certification. Ship was engaged in transporting bulk cement around coastal New Zealand.
 
 ## Status
