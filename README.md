@@ -107,4 +107,4 @@ A highly intensive 16-week software engineering bootcamp, focusing on:
 [5]: http://github.com/Hemesh-Unka/acebook-pinkfish
 [6]: http://acebook-pinkfish.herokuapp.com/
 [7]: http://github.com/DrSerpent/DrSerpent-Core
-[8]: http://pypi.org/project/drserpent/
+[8]: https://pypi.org/project/drserpent/
