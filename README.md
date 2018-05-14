@@ -26,17 +26,20 @@ As a recent graduate from Makers Academy , I'm currently looking for a career in
 ## Skills
 
 **Problem Solving**
+
 I have always prided myself on my ability to solve a problem. Whether it is a nasty stack trace message, to troubleshooting multiple failures with navigational equipment onboard a vessel. I have always enjoyed breaking down a problem, finding the root cause and learning from specific outcomes from doing such an exercise.
 
 For example, we had an issue with the deployment pipeline in our **Acebook-Pinkfish** project. We needed to feature test some JavaScript code, and Travis CI does not allow in-browser testing. After doing some research on the topic, I came across a solution which utilised Google Chrome's headless browser within Travis. This small problem opened me up to the world of headless browsers and drivers that were compatible with Selenium. It also allowed me to get a good feel for tradeoffs between different drivers out in the wild and how they interacted with Travis CI.
 
 **Leadership**
+
 Whilst at sea, I was required to lead a number of different teams in a variety of situations. From shipboard drills to critical field operations, I strive to be transparent whilst keeping a down to earth approach to any situation.
 
 For instance, during a shift at sea, we experienced an issue with the hose joint that connects the ship to the oil rig. As a 2nd Officer, I was commanded by the captain to go down and speak with the deck crew and instruct them how to resolve the issue. Once on deck, I directed the crew to get some rags so that they could stop the air leak from the connection.
 My leadership skills helped my team to avoid bodily harm while it also prevented the oil rig from encountering delays in its drilling operations.
 
 **Team player**
+
 I believe that the success of the team depends on the commitment of its members. I always like to go above and beyond to make sure that my team members are fully on board so we can work more effectively in order to achieve our goals faster.
 
 During my time at Makers Academy, I've spent a lot of time pair programming. The feedback I get after these pairing sessions were always positive and people were happy to approach me again with further questions or advice. When working on various team projects, I came across as a reliable and efficient team member. I have always been willing to stay till closing time to work on my side projects, and I noticed that fellow students approached me for assistance if they were struggling on with a piece of code. It was a great opportunity to work on my communication and coaching skills and grow as a developer.
@@ -73,8 +76,6 @@ A highly intensive 16-week software engineering bootcamp, focusing on:
 - Pair programming
 - Object-orientated programming and software design
 - Agile/XP values
-
-
 - Languages: Python, Ruby, JavaScript (and jQuery), HTML/CSS
 - Web Frameworks: Sinatra, Ruby on Rails, Node, Express
 - Databases: PostgreSQL
