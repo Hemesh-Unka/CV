@@ -6,7 +6,7 @@
 
 After four years of taming the seven seas as 2nd Officer in the oil and gas industry, I decided that the time was right to shake off the sea legs and pursue a career towards something I have been always truly passionate about.
 
-As a recent graduate from Makers Academy , I'm currently looking for a career in London as a **full-stack** developer with an ambitious company working at the top of their field. Working on a product that I can get excited about is crucial, as is working in a team that will support me in learning new skills.
+As a recent graduate from Makers Academy , I'm currently looking for a career in London as a **full-stack developer** with an ambitious company working at the top of their field. Working on a product that I can get excited about is crucial, as is working in a team that will support me in learning new skills.
 
 **Tech Skills:** TDD, Pair-Programming, Agile, XP Values, Git Workflow
 
