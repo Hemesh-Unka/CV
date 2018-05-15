@@ -51,13 +51,13 @@ During my time at Makers Academy, I've spent a lot of time pair programming. The
 **CAL>Isuzu Hamilton** (February 2017 - November 2017)    
 *Engineering/Logistics Administrator (Temporary Role)*  
 - Worked alongside senior engineering management to ensure the workshop flowed freely under a newly introduced LEAN manufacturing environment.
--  Provided additional support to workshop staff by ensuring all build materials were onsite so no time loss occurred on any individual truck builds.
+- Provided additional support to workshop staff by ensuring all build materials were onsite so no time loss occurred on any individual truck builds.
 
 **MMA Offshore Asia Pte Ltd** (May 2013 to January 2017)
 *2nd Officer - Full Dynamic Positioning Operator*
- - Managed day-to-day vessel operations and supporting long term operational development.
- - Responsible for safety and risk control, ensuring compliance with national and international legislation.
- - Leader of a team of operations personnel and ultimately responsible to the Master.
+- Managed day-to-day vessel operations and supporting long term operational development.
+- Responsible for safety and risk control, ensuring compliance with national and international legislation.
+- Leader of a team of operations personnel and ultimately responsible to the Master.
 
 **Silversea Cruises** (January 2011 to August 2011)  
 *Trainee Deck Officer*
