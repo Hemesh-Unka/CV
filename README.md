@@ -16,8 +16,8 @@ As a recent graduate from Makers Academy , I'm currently looking for a career in
 
 | GitHub Repo | Description | Code/Demo Links | Tech Stack |
 | :---------: | --------- | :---------: | --------- |
-| [DrSerpent][7] | Teamed up with 4 technical individuals over a 2 week timeframe to create a testing framework from scratch. Our goal was to have its code tested within itself and built in a language that we had no prior experience with. It's now on open source and people are even downloading it! | [![image](https://user-images.githubusercontent.com/12001682/39885119-bbc0574c-5483-11e8-8233-93e876e62802.png)][8] | Python, DrSerpent |
-| [Acebook-Pinkfish][5] | Working in team of 5 to create a social media platform over a 2 week period. As a team, we learnt a lot about collaborating with git, as well as delegation between us, regular stand-ups, and working with XP values and agile practices. | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)][6] | Ruby on Rails, RSpec, Capybara, Paperclip, Devise, Heroku, Spectre |
+| [DrSerpent][7] | Teamed up with 4 technical individuals over a 2-week timeframe to create a testing framework from scratch. Our goal was to have its code tested within itself and built in a language that we had no prior experience with. It's now on open source and people are even downloading it! | [![image](https://user-images.githubusercontent.com/12001682/39885119-bbc0574c-5483-11e8-8233-93e876e62802.png)][8] | Python, DrSerpent |
+| [Acebook-Pinkfish][5] | Working in a team of 5 to create a social media platform over a 2 week period. As a team, we learnt a lot about collaborating with git, as well as delegation between us, regular stand-ups, and working with XP values and agile practices. | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)][6] | Ruby on Rails, RSpec, Capybara, Paperclip, Devise, Heroku, Spectre |
 | [BlahBlah][3] | A test driven, lightweight twitter clone built in ruby. This was a project that made me realise how far I had come in terms of object orientated programming and test driven development. | [![aws](https://user-images.githubusercontent.com/12001682/39510305-3107040a-4de1-11e8-8adf-202174f66428.png)][4] | Ruby, Sinatra, RSpec, Capybara, PostgreSQL, AWS, Spectre  |
 | [Waylo][1] | Personal project: A beer/cider price tracker for a popular New Zealand supermarket chain. Scraper and website were built with no prior knowledge of JavaScript or test driven development! | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)][2] | JavaScript, Backbone.js, Node.js, Express.js, Mongoose.js, MongoDB, Bootstrap
 
@@ -55,9 +55,9 @@ During my time at Makers Academy, I've spent a lot of time pair programming. The
 
 **MMA Offshore** (May 2013 to January 2017)    
 *2nd Officer - Full Dynamic Positioning Operator*  
-- Managed day-to-day vessel operations and supporting long term operational development.
+- Managed day-to-day vessel operations and supporting long-term operational development.
 - Responsible for safety and risk control, ensuring compliance with national and international legislation.
-- Leader of a team of operations personnel and ultimately responsible to the Master.
+- A leader of a team of operations personnel and ultimately responsible to the Master.
 
 **Silversea Cruises** (January 2011 to August 2011)  
 *Trainee Deck Officer*
@@ -72,7 +72,7 @@ During my time at Makers Academy, I've spent a lot of time pair programming. The
 #### Makers Academy (February 2018 to May 2018)
 
 A highly intensive 16-week software engineering bootcamp, focusing on:
-- Test driven development
+- Test-driven development
 - Pair programming
 - Object-orientated programming and software design
 - Agile/XP values
@@ -97,7 +97,7 @@ A highly intensive 16-week software engineering bootcamp, focusing on:
 ***
 
 ## Status
-- [United Kingdom - Tier 5 (Youth Mobility) Migrant Visa](https://www.gov.uk/tier-5-youth-mobility) - (Valid till September 2019)
+- [United Kingdom - Tier 5 (Youth Mobility) Migrant Visa](https://www.gov.uk/tier-5-youth-mobility) - (Valid until September 2019)
 - New Zealand Citizen
 
 [1]: http://github.com/Hemesh-Unka/waylo
