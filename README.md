@@ -97,7 +97,7 @@ A highly intensive 16-week software engineering bootcamp, focusing on:
 ***
 
 ## Status
-- [United Kingdom - Tier 5 (Youth Mobility) Migrant Visa](https://www.gov.uk/tier-5-youth-mobility) - (Valid until September 2019)
+- [United Kingdom - Tier 2 General Work Visa](https://www.gov.uk/tier-2-general) - (Valid until December 2022)
 - New Zealand Citizen
 
 [1]: http://github.com/Hemesh-Unka/waylo
