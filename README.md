@@ -6,7 +6,7 @@
 
 After four years of taming the seven seas as 2nd Officer in the oil and gas industry, I decided that the time was right to shake off the sea legs and pursue a career towards something I have been always truly passionate about.
 
-As a recent graduate from Makers Academy , I'm currently looking for a career in London as a **full-stack developer** with an ambitious company working at the top of their field. Working on a product that I can get excited about is crucial, as is working in a team that will support me in learning new skills.
+As a recent graduate from Makers, I'm currently looking for a career in London as a **full-stack developer** with an ambitious company working at the top of their field. Working on a product that I can get excited about is crucial, as is working in a team that will support me in learning new skills.
 
 **Tech Skills:** TDD, Pair-Programming, Agile, XP Values, Git Workflow
 
@@ -42,7 +42,7 @@ My leadership skills helped my team to avoid bodily harm while it also prevented
 
 I believe that the success of the team depends on the commitment of its members. I always like to go above and beyond to make sure that my team members are fully on board so we can work more effectively in order to achieve our goals faster.
 
-During my time at Makers Academy, I've spent a lot of time pair programming. The feedback I get after these pairing sessions were always positive and people were happy to approach me again with further questions or advice. When working on various team projects, I came across as a reliable and efficient team member. I have always been willing to stay till closing time to work on my side projects, and I noticed that fellow students approached me for assistance if they were struggling on with a piece of code. It was a great opportunity to work on my communication and coaching skills and grow as a developer.
+During my time at Makers, I've spent a lot of time pair programming. The feedback I get after these pairing sessions were always positive and people were happy to approach me again with further questions or advice. When working on various team projects, I came across as a reliable and efficient team member. I have always been willing to stay till closing time to work on my side projects, and I noticed that fellow students approached me for assistance if they were struggling on with a piece of code. It was a great opportunity to work on my communication and coaching skills and grow as a developer.
 
 ***
 
@@ -69,7 +69,7 @@ During my time at Makers Academy, I've spent a lot of time pair programming. The
 
 ## Education
 
-#### Makers Academy (February 2018 to May 2018)
+#### Makers (February 2018 to May 2018)
 
 A highly intensive 16-week software engineering bootcamp, focusing on:
 - Test-driven development
