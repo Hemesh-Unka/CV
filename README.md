@@ -48,6 +48,9 @@ During my time at Makers, I've spent a lot of time pair programming. The feedbac
 
 ## Experience
 
+**Holition** (June 2018 to Present)
+*Software Engineer*
+
 **CAL>Isuzu Hamilton** (February 2017 to November 2017)    
 *Engineering/Logistics Administrator (Temporary Role)*  
 - Worked alongside senior engineering management to ensure the workshop flowed freely under a newly introduced LEAN manufacturing environment.
