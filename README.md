@@ -48,7 +48,10 @@ During my time at Makers, I've spent a lot of time pair programming. The feedbac
 
 ## Experience
 
-**Holition** (June 2018 to Present)    
+**Holition** (June 2022 to Present)    
+*Lead Frontend Engineer*
+
+**Holition** (June 2018 to June 2022)    
 *Senior Software Engineer*
 
 **CAL>Isuzu Hamilton** (February 2017 to November 2017)    
